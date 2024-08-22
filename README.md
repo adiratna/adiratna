@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adiratna
-- 👀 I’m interested in Biomedical Engineering and Imaging
-- 🌱 I’m currently learning Computer Science in Railway Engineering and its application
-- 💞️ I’m looking to collaborate on Computer Vision and Computer Science
-- 📫 How to reach me cadiratna@gmail.com
+- 👀 I’m interested in Artificial Intelligence and Computer Vision
+- 🌱 I’m currently learning Computer Science in Railway Engineering and Automation Engineering (its application) for Train and Electric Vehicle.
+- 💞️ I’m looking to collaborate on Artificial Intelligence and Computer Vision
+- 📫 How to reach me adiratna@pnm.ac.id
 
 <!---
 adiratna/adiratna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
