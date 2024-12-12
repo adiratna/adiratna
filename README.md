@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adiratna
-- 👀 I’m interested in Artificial Intelligence and Computer Vision
-- 🌱 I’m currently learning Computer Science in Railway Engineering and Automation Engineering (its application) for Train and Electric Vehicle.
+- 👋 Hi guys!
+- 👀 Currently dealing with lots of code for Artificial Intelligence and It's Applications.
+- 🌱 Mostly codes for Rollingstock Engineering, then to Automation Engineering for Computer Vision.
 - 💞️ I’m looking to collaborate on Artificial Intelligence and Computer Vision
 - 📫 How to reach me adiratna@pnm.ac.id
 
